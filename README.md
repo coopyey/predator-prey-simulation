@@ -1,5 +1,5 @@
 # predator-prey-simulation
-A simple simulation for a predator-prey relationship implemented in C++.
+A simple simulation for a predator-prey relationship implemented in C++. Completed the fall of 2017.
 
 This is a predator-prey simulation using ants and doodlebugs. The point of this assignment is to create a base class called Critter and then derive the ant and doodlebug classes from critter. The program will take in a seed each time it is run and print out every step of the simulation as well as a count of all of the doodlebugs and ants and stastics thereof.
 
